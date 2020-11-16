@@ -3,7 +3,7 @@
 
 ## Objectives
 
-1. Understand how to control the return value of a method that uses `yield`.
+1.  Understand how to control the return value of a method that uses `yield`.
 2. Gain more practice with the `yield` keyword and blocks.
 2. Gain a deeper understanding of the common iterator, `#collect`.
 
